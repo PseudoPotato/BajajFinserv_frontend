@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>21BCE0791_VEDANG_PAITHANKAR</title>
+        <title>21BCE0790_VEDANT_SHARMA</title>
       </Head>
       <Component {...pageProps} />
     </>
